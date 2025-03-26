@@ -2,6 +2,10 @@
 
 [Open3D-ML](https://github.com/isl-org/Open3D-ML) is used to get pretrained models (over different datasets) and infer on sample point clouds. Unfortunately, not all pretrained models seems to work (especially RandLANet).
 
+![Comparison](assets/ref.png)
+
+
+
 # Run inference of pretrained models on sample point cloud
 ```code
 ./run_segmentation.sh <point cloud.ply>
@@ -23,4 +27,4 @@ python compare_vid.py
 ```
 
 
-![Results](assets/comparison_grid.mp4)
+[Results](assets/comparison_grid.mp4)
