@@ -2,7 +2,7 @@
 
 [Open3D-ML](https://github.com/isl-org/Open3D-ML) is used to get pretrained models (over different datasets) and infer on sample point clouds. Unfortunately, not all pretrained models seems to work (especially RandLANet).
 
-![Comparison](assets/ref.png)
+![Comparison](assets/ref2.png)
 
 
 
